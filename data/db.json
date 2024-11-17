@@ -1,0 +1,16 @@
+{
+   "blogs": [
+     {
+       "title": "Who's under VPN",
+       "body": "Why do we use it?\nIt all",
+       "author": "ulg",
+       "id": 1
+     },
+     {
+       "title": "finding it by email",
+       "body": "Why do we use it?\nIt is a long est",
+       "author": "ulg1",
+       "id": 2
+     }
+   ]
+ }
