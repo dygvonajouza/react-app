@@ -26,7 +26,7 @@
   padding: 6px;
 }
 .navbar a:hover {
-  color: #7CFF81;
+  color: #7CFF80;
 }
 .content {
   max-width: 600px;
@@ -54,6 +54,15 @@
 }
 
 /* blog details pg */
+.blog-details button{
+  background: #7CFF80;
+  color: #fff;
+  border: 0;
+  margin: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
 .blog-details h2{
   font-size: 20px;
   color: #7CFF80;
